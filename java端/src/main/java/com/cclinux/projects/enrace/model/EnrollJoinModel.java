@@ -11,7 +11,7 @@ import lombok.EqualsAndHashCode;
 /**
  * @Notes: 活动报名实体
  * @Author: cclinux0730 (weixin)
- * @Date: 2024/11/30 7:18
+ * @Date:  11/30 7:18
  * @Ver: ccminicloud-framework 3.2.1
  */
 

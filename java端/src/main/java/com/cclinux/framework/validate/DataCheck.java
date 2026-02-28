@@ -15,7 +15,7 @@ import java.util.Map;
 /**
  * @Notes: 数据校验
  * @Author: cclinux0730 (weixin)
- * @Date: 2024/2/18 7:32
+ * @Date:  2/18 7:32
  * @Ver: ccminicloud-framework 3.2.1
  * @Desc: 数字型支持前端传入字符型，后端转换为数字;
  * Money为字符型，支持前端数字转为字符；

@@ -23,7 +23,7 @@ import java.util.Map;
 /**
  * @Notes: 报名模块
  * @Author: cclinux0730 (weixin)
- * @Date: 2024/3/7 5:57
+ * @Date:  3/7 5:57
  * @Ver: ccminicloud-framework 3.2.1
  */
 

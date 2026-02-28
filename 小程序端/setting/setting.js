@@ -3,7 +3,7 @@ module.exports = {
 	API_URL: 'http://localhost:8888', // 接口地址
 
 	// #### 版本信息 
-	VER: 'build 2023.12.01',
+	VER: 'build CC.12.01',
 	COMPANY: '联系作者',
 
 	// #### 系统参数 

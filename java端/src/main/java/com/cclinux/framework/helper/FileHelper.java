@@ -11,7 +11,7 @@ import org.springframework.web.multipart.MultipartFile;
 /**
  * @Notes: 图片文件处理
  * @Author: cclinux0730 (weixin)
- * @Date: 2024/3/6 4:33
+ * @Date:  3/6 4:33
  * @Ver: ccminicloud-framework 3.2.1
  */
 

@@ -11,7 +11,7 @@ import lombok.EqualsAndHashCode;
 /**
  * @Notes: 收藏表
  * @Author: cclinux0730 (weixin)
- * @Date: 2024/11/28 16:07
+ * @Date:  11/28 16:07
  * @Ver: ccminicloud-framework 3.2.1
  */
 

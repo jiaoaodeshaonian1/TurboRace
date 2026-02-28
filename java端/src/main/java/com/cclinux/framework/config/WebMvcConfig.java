@@ -12,7 +12,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 /**
  * @Notes: MVC配置
  * @Author: cclinux0730 (weixin)
- * @Date: 2024/3/3 11:14
+ * @Date:  3/3 11:14
  * @Ver: ccminicloud-framework 3.2.1
  */
 
